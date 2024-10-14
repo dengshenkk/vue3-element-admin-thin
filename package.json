@@ -108,6 +108,7 @@
   "author": "有来开源组织",
   "license": "MIT",
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=18.0.0",
+    "packageManager": "pnpm"
   }
 }
